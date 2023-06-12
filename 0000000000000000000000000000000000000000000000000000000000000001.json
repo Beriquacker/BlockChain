@@ -1,0 +1,23 @@
+{
+    "name": "Pase de Acceso General: El Gran Concierto",
+    "description": "Este es un Pase de Acceso General para El Gran Concierto. Permite al portador el acceso al recinto y a todas las áreas generales.",
+    "image": "URL de la imagen",
+    "attributes": [
+        {
+            "trait_type": "Tipo de Pase",
+            "value": "Acceso General"
+        },
+        {
+            "trait_type": "Nombre del Evento",
+            "value": "El Gran Concierto"
+        },
+        {
+            "trait_type": "Fecha del Evento",
+            "value": "2023-07-15"
+        },
+        {
+            "trait_type": "Nivel de Acceso",
+            "value": "Acceso al recinto, áreas generales"
+        }
+    ]
+}
