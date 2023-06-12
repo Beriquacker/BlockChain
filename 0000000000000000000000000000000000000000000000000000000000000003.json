@@ -1,0 +1,23 @@
+{
+    "name": "Pase VIP: El Gran Concierto",
+    "description": "Este es un Pase VIP para El Gran Concierto. Ofrece al titular beneficios VIP como asientos prioritarios y acceso al salón VIP.",
+    "image": "https://github.com/Beriquacker/BlockChain/blob/69e2869ec164e70eea7bf36414ae9e926c3e4acb/rsw600h800cgtrue.png",
+    "attributes": [
+        {
+            "trait_type": "Tipo de Pase",
+            "value": "VIP"
+        },
+        {
+            "trait_type": "Nombre del Evento",
+            "value": "El Gran Concierto"
+        },
+        {
+            "trait_type": "Fecha del Evento",
+            "value": "2023-07-15"
+        },
+        {
+            "trait_type": "Nivel de Acceso",
+            "value": "Asientos prioritarios, salón VIP"
+        }
+    ]
+}
