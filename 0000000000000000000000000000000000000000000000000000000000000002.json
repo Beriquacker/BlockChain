@@ -1,5 +1,23 @@
 {
     "name": "Pase de Backstage: El Gran Concierto",
     "description": "Este es un Pase de Backstage para El Gran Concierto. Permite al portador el acceso exclusivo a las áreas de backstage y la oportunidad de conocer a los artistas.",
-    "image": "https://highxtar.com/wp-content/uploads/2022/04/highxtar-coachella-nft.jpg",
+    "image": "https://github.com/Beriquacker/BlockChain/blob/fe09ec428e1d55af86520ba7d3bf14f51099f75e/highxtar-coachella-nft.png",
+    "attributes": [
+        {
+            "trait_type": "Tipo de Pase",
+            "value": "Backstage"
+        },
+        {
+            "trait_type": "Nombre del Evento",
+            "value": "El Gran Concierto"
+        },
+        {
+            "trait_type": "Fecha del Evento",
+            "value": "2023-07-15"
+        },
+        {
+            "trait_type": "Nivel de Acceso",
+            "value": "Acceso al recinto, áreas de backstage, encuentro con los artistas"
+        }
+    ]
 }
