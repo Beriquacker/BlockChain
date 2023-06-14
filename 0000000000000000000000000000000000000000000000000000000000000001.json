@@ -1,7 +1,7 @@
 {
     "name": "Pase de Acceso General: El Gran Concierto",
     "description": "Este es un Pase de Acceso General para El Gran Concierto. Permite al portador el acceso al recinto y a todas las áreas generales.",
-    "image" : " https://raw.githubusercontent.com/Beriquacker/BlockChain/main/highxtar-coachella-nft.png " ,
+    "image" : "https://raw.githubusercontent.com/Beriquacker/BlockChain/main/highxtar-coachella-nft.png " ,
     "atributes" : [
         {
             "trait_type" : " Tipo de Pase " ,
