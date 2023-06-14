@@ -1,23 +1,23 @@
 {
-    "name": "Pase de Acceso General: El Gran Concierto",
-    "description": "Este es un Pase de Acceso General para El Gran Concierto. Permite al portador el acceso al recinto y a todas las áreas generales.",
-    "image" : "https://raw.githubusercontent.com/Beriquacker/BlockChain/main/highxtar-coachella-nft.png " ,
-    "atributes" : [
-        {
-            "trait_type" : " Tipo de Pase " ,
-            "value" : " Acceso General "
-        },
-        {
-            "trait_type" : " Nombre del Evento " ,
-            "valor" : " El Gran Concierto "
-        },
-        {
-            "trait_type" : " Fecha del Evento " ,
-            "valor" : " 2023-07-15 "
-        },
-        {
-            "trait_type" : " Nivel de Acceso " ,
-            "value" : " Acceso al recinto, áreas generales "
-        }
-    ]
+  "name": "Pase de Acceso General: El Gran Concierto",
+  "description": "Este es un Pase de Acceso General para El Gran Concierto. Permite al portador el acceso al recinto y a todas las áreas generales.",
+  "image": "https://raw.githubusercontent.com/Beriquacker/BlockChain/main/highxtar-coachella-nft.png",
+  "attributes": [
+    {
+      "trait_type": "tipo de pase",
+      "value": "acceso general"
+    },
+    {
+      "trait_type": "nombre del evento",
+      "value": "el gran concierto"
+    },
+    {
+      "trait_type": "fecha del evento",
+      "value": "2023-07-15"
+    },
+    {
+      "trait_type": "nivel de acceso",
+      "value": "acceso al recinto, áreas generales"
+    }
+  ]
 }
